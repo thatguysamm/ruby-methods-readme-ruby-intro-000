@@ -1,17 +1,5 @@
 # Use this space to code along with the readme
-
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-def New_num_who_dis
+def say_hello_world_ten_times
   phrase= "Hello World!"
   puts phrase
   puts phrase
@@ -24,6 +12,5 @@ def New_num_who_dis
   puts phrase
   puts phrase
 end
-puts New_num_who_dis
 
-  
+say_hello_world_ten_times
